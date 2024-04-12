@@ -11,6 +11,22 @@ SITE IS VERY INCOMPLETE!!! NO FUNCTIONALITY AT THIS TIME
 ## Prompt
 Alright, you’ve got 2 hours to accomplish the following task to the best of your ability: Build a web page that is also an escape room. If the user had an answer key, the puzzles should be solvable within a couple minutes (no time locks or onerous problems). You can use any site or format that’s convenient but make sure it is easy to share/run for a dummy non-coder. Submit an answer key along with your webpage. Make it awesome.
 
+## Deliverables - Current State Post-Mockathon
+- created a game plan and divided up different tasks
+- outlined toolstack
+- Created homepage
+    - bootstrap
+    - metatags
+    - font awesome
+    - sidebar
+        - title
+        - "reset" button (not working)
+        - "records" button (not working)
+        - timer (not working)
+- Added to github, configured for pages (got hung up on this for a while)
+- Purchased a domain & got it configured  (got hung up on this for a while)
+- Generated an image
+***did not get to map out different parts of the image (the meat of the project)
 
 ## Brainstorm
 - threejs room render (super hard)
