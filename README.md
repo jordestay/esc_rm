@@ -1,7 +1,7 @@
 # esc_rm
 Mockathon for an escape room experience site
 
-Author: Jordan Taylor (USU)
+Author:
 
 ## Grading System (1-5)
 - Creativity/design
