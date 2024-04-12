@@ -1,7 +1,7 @@
 # esc_rm
 Mockathon for an escape room experience site
 
-Author:
+SITE IS VERY INCOMPLETE!!! NO FUNCTIONALITY AT THIS TIME
 
 ## Grading System (1-5)
 - Creativity/design
