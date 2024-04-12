@@ -42,6 +42,7 @@ Alright, you’ve got 2 hours to accomplish the following task to the best of yo
     - ctrl+click, scroll, or pinch to zoom
 
 ## Toolstack
+- clipdrop for image generation
 - Bootstrap
 - FontAwesome
 - Github Pages
